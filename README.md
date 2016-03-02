@@ -1,9 +1,8 @@
-# simplechat
+# caesar-cipher
 ------------------
-Логин admin
-Пароль admin
+Settings in config.php
 ------------------
-Логин User123
-Пароль User123
-
-Простой чат. C использованием MVC структуры.
+ Used HTML5, bootstrap, Php5, JavaScript, Ajax
+ 
+ 
+ 
